@@ -7,11 +7,6 @@ Monokai is a hellhound/sparkledog. No specific breed, digitigrade.
     <td>
         <img src="images/wip v1.png"></img>
     </td>
-    <td>
-        <img src="images/snugs.jpg"></img>
-    </td>
-  </tr>
-  <tr>
     <td colspan="2" style="text-align: center">
         <img src="images/wip v2.jpg"></img>
     </td>
